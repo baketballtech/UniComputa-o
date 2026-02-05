@@ -112,26 +112,20 @@ Depois, vamos explorar **os problemas universais** que eles estudaram, como o **
           <br>
           `,f=`Argumentos para Fundamentar a Tese
 <br>
-
-<h4>Convergência de Modelos Formais Distintos</h4>
 <br>
+<h4>Convergência de Modelos Formais Distintos</h4>
 Um dos principais argumentos a favor da tese é a equivalência entre vários modelos de computação, entre os quais:
-<br><br>
 - Cálculo lambda (Church),<br>
 - Máquinas de Turing (Turing),<br>
 - Funções recursivas gerais (Gödel, Kleene),<br>
-- Sistemas de Post e máquinas registadoras.<br><br>
-Apesar das abordagens muito diferentes e do desenvolvimento independente, todos esses modelos computam exatamente a mesma classe de funções. Esta convergência notável é um forte indício de que capturam corretamente a noção de computação efetiva.
-<br><br>
+- Sistemas de Post e máquinas registadoras.<br>
 
 <h4>Análise Detalhada do Processo Humano de Cálculo (Turing)</h4>
-<br>
-Turing apresentou um argumento particularmente convincente ao:<br><br>
-- Analisar como um ser humano realiza cálculos com lápis e papel, seguindo regras mecânicas;<br>
+Turing apresentou um argumento particularmente convincente ao:
+- Analisar como um ser humano realiza cálculos com lápis e papel, seguindo regras mecânicas;
 - Decompor esse processo em operações elementares discretas e finitas;<br>
-- Demonstrar que tais operações podem ser simuladas por uma máquina extremamente simples (a máquina de Turing), que apenas lê, escreve e move uma fita.<br><br>
-Esse argumento mostrou que qualquer procedimento algorítmico humano pode ser mecanizado por um dispositivo simples, legitimando a máquina de Turing como um modelo universal de computação.
-<br><br>
+- Demonstrar que tais operações podem ser simuladas por uma máquina extremamente simples (a máquina de Turing), que apenas lê, escreve e move uma fita.<br>
+<br>
 
 <h4>Ausência de Contraexemplos</h4>
 <br>
