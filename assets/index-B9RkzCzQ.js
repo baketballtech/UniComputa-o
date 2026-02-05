@@ -110,9 +110,7 @@ Depois, vamos explorar **os problemas universais** que eles estudaram, como o **
           <br>
           Se diferentes modelos formais de computação, desenvolvidos de forma independente e com base em intuições distintas, capturam a mesma classe de funções calculáveis, isso sugere fortemente que tal classe corresponde ao conceito intuitivo e fundamental de computabilidade. Esta convergência é uma evidência poderosa da validade da tese.
           <br>
-          `,f=`Argumentos para Fundamentar a Tese
-<br>
-<br>
+          `,f=`
 <h4>Convergência de Modelos Formais Distintos</h4>
 Um dos principais argumentos a favor da tese é a equivalência entre vários modelos de computação, entre os quais:
 - Cálculo lambda (Church),<br>
@@ -128,9 +126,7 @@ Turing apresentou um argumento particularmente convincente ao:
 <br>
 
 <h4>Ausência de Contraexemplos</h4>
-<br>
 Até hoje, não foi identificado nenhum procedimento efetivo intuitivo que não possa ser implementado por uma máquina de Turing ou modelo equivalente, o que reforça a aceitação e a robustez da tese ao longo das décadas.
-<br>
 `,m=`Relação da Tese de Church-Turing com o Cálculo Lambda
 
 1
