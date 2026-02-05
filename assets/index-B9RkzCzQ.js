@@ -55,7 +55,7 @@ As <strong>linguagens formais</strong> são conjuntos de cadeias de símbolos co
 
 Depois, vamos explorar **os problemas universais** que eles estudaram, como o **problema da parada, decidibilidade e o Entscheidungsproblem**. Estes problemas mostram os limites do que pode ser resolvido por uma máquina.  
 → <a href="/problemas" target="_blank">Saiba mais sobre os problemas e as maquinas</a>
-`):i==4?($n=Xm,Bn=Ym,Hn=Gm,Wn=Jm,Vn=Zm,k=["Enquadramento Geral","Motivações para a Formulação da Tese","Princípios e Pressupostos","Argumentos","Relação da Tese com o Cálculo Lambda","Panorama"],s=`Enquadramento Geral da Tese de Church-Turing
+`):i==4?($n=Xm,Bn=Ym,Hn=Gm,Wn=Jm,Vn=Zm,k=["Enquadramento","Motivações","Princípios","Argumentos","Tese e o Cálculo Lambda","Panorama"],s=`Enquadramento Geral da Tese de Church-Turing
 
           A Tese de Church-Turing é uma proposição fundamental da teoria da computação
           que procura caracterizar, de forma rigorosa, o conceito intuitivo de procedimento
